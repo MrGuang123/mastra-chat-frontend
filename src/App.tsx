@@ -1,4 +1,3 @@
-import React from "react";
 import ChatComponent from "./components/ChatComponent";
 import "./App.css";
 
